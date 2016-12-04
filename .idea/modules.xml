@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/autogen/autogen.iml" filepath="$PROJECT_DIR$/autogen/autogen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkbench/flinkbench.iml" filepath="$PROJECT_DIR$/flinkbench/flinkbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flinkbench/streaming/flinkbench-streaming.iml" filepath="$PROJECT_DIR$/flinkbench/streaming/flinkbench-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gearpumpbench/gearpumpbench.iml" filepath="$PROJECT_DIR$/gearpumpbench/gearpumpbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gearpumpbench/streaming/gearpumpbench-streaming.iml" filepath="$PROJECT_DIR$/gearpumpbench/streaming/gearpumpbench-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopbench/hadoopbench.iml" filepath="$PROJECT_DIR$/hadoopbench/hadoopbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopbench/sql/hadoopbench-sql.iml" filepath="$PROJECT_DIR$/hadoopbench/sql/hadoopbench-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibench.iml" filepath="$PROJECT_DIR$/hibench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/hibench-common.iml" filepath="$PROJECT_DIR$/common/hibench-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopbench/mahout/mahout.iml" filepath="$PROJECT_DIR$/hadoopbench/mahout/mahout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopbench/nutchindexing/nutchindexing.iml" filepath="$PROJECT_DIR$/hadoopbench/nutchindexing/nutchindexing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoopbench/pegasus/pegasus.iml" filepath="$PROJECT_DIR$/hadoopbench/pegasus/pegasus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/sparkbench.iml" filepath="$PROJECT_DIR$/sparkbench/sparkbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/assembly/sparkbench-assembly.iml" filepath="$PROJECT_DIR$/sparkbench/assembly/sparkbench-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/common/sparkbench-common.iml" filepath="$PROJECT_DIR$/sparkbench/common/sparkbench-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/graph/sparkbench-graph.iml" filepath="$PROJECT_DIR$/sparkbench/graph/sparkbench-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/micro/sparkbench-micro.iml" filepath="$PROJECT_DIR$/sparkbench/micro/sparkbench-micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/ml/sparkbench-ml.iml" filepath="$PROJECT_DIR$/sparkbench/ml/sparkbench-ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/sql/sparkbench-sql.iml" filepath="$PROJECT_DIR$/sparkbench/sql/sparkbench-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/streaming/sparkbench-streaming.iml" filepath="$PROJECT_DIR$/sparkbench/streaming/sparkbench-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkbench/websearch/sparkbench-websearch.iml" filepath="$PROJECT_DIR$/sparkbench/websearch/sparkbench-websearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stormbench/stormbench.iml" filepath="$PROJECT_DIR$/stormbench/stormbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stormbench/streaming/stormbench-streaming.iml" filepath="$PROJECT_DIR$/stormbench/streaming/stormbench-streaming.iml" />
+    </modules>
+  </component>
+</project>
