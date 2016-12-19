@@ -28,7 +28,7 @@ rmr-hdfs $OUTPUT_HDFS || true
 SIZE=`dir_size $INPUT_HDFS`
 START_TIME=`timestamp`
 
-run-spark-job com.intel.hibench.sparkbench.ml.DenseKMeans -k $K --numIterations $MAX_ITERATION --storage $STORAGE_LEVEL $INPUT_HDFS/samples
+run-spark-job com.intel.hibench.sparkbench.ml.DenseKMeans -k $K --numIterations $MAX_ITERATION --storage $KMEANS_STORAGE_LEVEL $INPUT_HDFS/samples
 END_TIME=`timestamp`
 
 gen_report ${START_TIME} ${END_TIME} ${SIZE}

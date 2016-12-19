@@ -27,6 +27,7 @@ rmr-hdfs $OUTPUT_HDFS || true
 
 SIZE=`dir_size $INPUT_HDFS`
 START_TIME=`timestamp`
+NUM_REDS=2
 run-hadoop-job ${HADOOP_EXAMPLES_JAR} terasort \
     -D mapreduce.job.reduces=${NUM_REDS} \
     ${INPUT_HDFS} ${OUTPUT_HDFS}
